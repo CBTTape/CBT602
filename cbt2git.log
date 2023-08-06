@@ -1,0 +1,15 @@
+2023-08-06 05:29:38.835014 - Initialized conversion of CBT602
+2023-08-06 05:29:38.913878 - Received CBT.V505.FILE602.PDS from FILE602.XMI 
+2023-08-06 05:29:38.916211 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE602.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:29:38.917220 - Found $$NOTE.txt (text/plain) in CBT.V505.FILE602.PDS, moved to PDS/$$NOTE
+2023-08-06 05:29:38.918166 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE602.PDS, moved to PDS/$$NOTE1
+2023-08-06 05:29:38.919093 - Found $DOC.txt (text/plain) in CBT.V505.FILE602.PDS, moved to PDS/$DOC
+2023-08-06 05:29:38.920057 - Found $LSPCR.txt (text/plain) in CBT.V505.FILE602.PDS, moved to PDS/$LSPCR
+2023-08-06 05:29:38.920942 - Found $PUT.txt (text/plain) in CBT.V505.FILE602.PDS, moved to PDS/$PUT
+2023-08-06 05:29:38.921857 - Found @FILE602.txt (text/plain) in CBT.V505.FILE602.PDS, moved to PDS/@FILE602
+2023-08-06 05:29:38.927498 - Found LSPC.xmi (application/xmit) in CBT.V505.FILE602.PDS
+2023-08-06 05:29:38.934545   - Received RECFM=U data, stored XMIT file as CBT602/LSPC.xmi
+2023-08-06 05:29:38.935632 - Found LSPCPNL.txt (text/plain) in CBT.V505.FILE602.PDS, moved to PDS/LSPCPNL
+2023-08-06 05:29:38.936537 - Found LSPCPNLH.txt (text/plain) in CBT.V505.FILE602.PDS, moved to PDS/LSPCPNLH
+2023-08-06 05:29:38.937451 - Found LSPCR.rexx (text/plain) in CBT.V505.FILE602.PDS, moved to PDS/LSPCR
+2023-08-06 05:29:38.938398 - Found PUT.rexx (text/plain) in CBT.V505.FILE602.PDS, moved to PDS/PUT
