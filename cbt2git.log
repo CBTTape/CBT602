@@ -1,16 +1,16 @@
-2025-04-15 03:52:25.078209 - Received CBT.V508.FILE602.PDS from FILE602.XMI 
-2025-04-15 03:52:25.079516 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/$$$#DATE
-2025-04-15 03:52:25.079844 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/$$NOTE
-2025-04-15 03:52:25.080154 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/$$NOTE1
-2025-04-15 03:52:25.080349 - Found $DOC.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/$DOC
-2025-04-15 03:52:25.080542 - Found $LSPCR.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/$LSPCR
-2025-04-15 03:52:25.080732 - Found $PUT.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/$PUT
-2025-04-15 03:52:25.080958 - Found @FILE602.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/@FILE602
-2025-04-15 03:52:25.081136 - Found LSPC.xmi (application/xmit) in CBT.V508.FILE602.PDS, moved to PDS/LSPC.xmi
-2025-04-15 03:52:25.086377 - Received SBGOLOB.LSPACE.LOADLIB from LSPC.xmi 
-2025-04-15 03:52:25.086873 - Found LSPACE.bin (application/octet-stream) in SBGOLOB.LSPACE.LOADLIB, moved to LSPC/LSPACE
-2025-04-15 03:52:25.087018 - Found alias LSPC to LSPACE in SBGOLOB.LSPACE.LOADLIB, moved to PDS/LSPC
-2025-04-15 03:52:25.087335 - Found LSPCPNL.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/LSPCPNL
-2025-04-15 03:52:25.087513 - Found LSPCPNLH.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/LSPCPNLH
-2025-04-15 03:52:25.087744 - Found LSPCR.rexx (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/LSPCR
-2025-04-15 03:52:25.087956 - Found PUT.rexx (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/PUT
+2025-04-15 22:41:21.960345 - Received CBT.V508.FILE602.PDS from FILE602.XMI 
+2025-04-15 22:41:21.961876 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/$$$#DATE
+2025-04-15 22:41:21.962227 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/$$NOTE
+2025-04-15 22:41:21.962557 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/$$NOTE1
+2025-04-15 22:41:21.962713 - Found $DOC.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/$DOC
+2025-04-15 22:41:21.962887 - Found $LSPCR.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/$LSPCR
+2025-04-15 22:41:21.963069 - Found $PUT.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/$PUT
+2025-04-15 22:41:21.963180 - Found @FILE602.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/@FILE602
+2025-04-15 22:41:21.963414 - Found LSPC.xmi (application/xmit) in CBT.V508.FILE602.PDS, moved to PDS/LSPC.xmi
+2025-04-15 22:41:21.969087 - Received SBGOLOB.LSPACE.LOADLIB from LSPC.xmi 
+2025-04-15 22:41:21.969703 - Found LSPACE.bin (application/octet-stream) in SBGOLOB.LSPACE.LOADLIB, moved to LSPC/LSPACE
+2025-04-15 22:41:21.969836 - Found alias LSPC to LSPACE in SBGOLOB.LSPACE.LOADLIB, moved to PDS/LSPC
+2025-04-15 22:41:21.970203 - Found LSPCPNL.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/LSPCPNL
+2025-04-15 22:41:21.970407 - Found LSPCPNLH.txt (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/LSPCPNLH
+2025-04-15 22:41:21.970671 - Found LSPCR.rexx (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/LSPCR
+2025-04-15 22:41:21.970919 - Found PUT.rexx (text/plain) in CBT.V508.FILE602.PDS, moved to PDS/PUT
